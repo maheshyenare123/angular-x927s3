@@ -1,0 +1,31 @@
+/* Add application styles & imports to this file! */
+
+.card {
+  height: 100px;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-bottom: 5px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.label {
+  color: black;
+  font-weight: bold;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+  color: white;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
